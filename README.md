@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1><b>I'm Rishab Dugar</b> 
 <br></h1>
-Currently a Pre-final year student of Electrical Engineering at National Institute of Technology,Durgapur. I'm a Competitive Programmer, and Development and Open Source enthusiast.<br>
+Currently a Pre-final year student of Electrical Engineering at National Institute of Technology,Durgapur. I'm a Competitive Programmer, Developer and Open Source enthusiast.<br>
 <hr>
 <b>My Programming Profiles:</b>
 
