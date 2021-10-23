@@ -15,8 +15,8 @@ Currently a Pre-final year student of Electrical Engineering at National Institu
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 👯 I’m looking to collaborate on anything innovative
 - 🤔 I’m looking for help on improving my development skills 
-- 📫 How to reach me: 
-      - Linkedin : https://www.linkedin.com/in/rishabdugar/
-      - Mail : rishabdugar.jain@gmail.com
+- 📫 <b>How to reach me:</b> 
+      -Linkedin : https://www.linkedin.com/in/rishabdugar/
+      -Mail : rishabdugar.jain@gmail.com
 - ⚡ Fun fact: Desire itself is an Inspiration 
 
