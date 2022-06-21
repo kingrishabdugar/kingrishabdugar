@@ -1,4 +1,4 @@
-# Aloha, I'm Rishab Dugar! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px>
+# Aloha, I'm Rishab Dugar! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 15px>
 
 # 💫 About Me:
 🔭  I’m currently working on my Skills.<br>
@@ -7,9 +7,8 @@
 🤔 I’m looking for help with Exploring New Technologies.<br>
 💬 Ask me about any tech-related stuff.<br>
 😄 Pronouns: He/His<br>
-📫 How to reach me: ✉️ rishabdugar.jain@gmail.com<br>         
+📫 How to reach me: ✉️ rishabdugar.jain@gmail.com         
 ⚡ Fun fact: I am a die-hard Doraemon fan 🤖
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kingrishabdugar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kingrishabdugar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabdugar) 
