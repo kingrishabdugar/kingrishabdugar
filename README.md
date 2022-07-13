@@ -55,12 +55,33 @@
 
 </div>
 
----
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kingrishabdugar&label=Profile%20views&color=0e75b6&style=flat" alt="kingrishabdugar" /> </p>
 <div align="center">
 
 [![Gmail Badge](https://img.shields.io/badge/-rishabdugar.jain@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rishabdugar.jain@gmail.com)](mailto:rishabdugar.jain@gmail.com)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/kingishabdugar)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/kingrishabdugar)
-  
+
+---
+
 </div>
+
+<div align="center">
+
+### A random meme for you, to make your day better 😌
+
+
+(*P.S. : Refresh the page to see a new one* 😉 )
+
+<a href="https://github.com/kingrishabdugar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
+
+
+
+### Random Dev Joke 🤡 for you! 
+
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+</div>
+
