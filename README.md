@@ -40,7 +40,11 @@
 
 <!--- [![Rishab's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=kingrishabdugar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) ---> 
 
-![snake gif](https://github.com/kingrishabdugar/kingrishabdugar/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
+
+![snake gif](https://github.com/kingrishabdugar/kingrishabdugar/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
