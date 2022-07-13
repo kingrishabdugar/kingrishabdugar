@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Rishab Dugar</h1>
-<h3 align="center">A young-dumb 🤓 passionate developer from India 🇮🇳</h3>
+<h3 align="center">A young-dumb 🤓 passionate developer 🧑🏻‍💻 from India 🇮🇳</h3>
 
 <h1 align="center">
   Let's Connect and have a Chat!💬
