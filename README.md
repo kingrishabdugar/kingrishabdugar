@@ -68,7 +68,8 @@
 
 <div align="center">
 
-### A random meme for you, to make your day better 😌
+
+### A Random Meme for you, to make your day better 😌
 
 
 (*P.S. : Refresh the page to see a new one* 😉 )
@@ -85,3 +86,4 @@
 
 </div>
 
+---
