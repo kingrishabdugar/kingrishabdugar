@@ -47,7 +47,13 @@
 </div>
 
 ### ✍️ Random Dev Quote
+
+<div align="center">
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+
+</div>
 
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kingrishabdugar&label=Profile%20views&color=0e75b6&style=flat" alt="kingrishabdugar" /> </p>
