@@ -14,8 +14,8 @@
 </div>
 
 # 💫 About Me:
-🔭 I’m currently learning <strong>MERN Stack</strong><br>
-🌱 I’m currently learning Data Structures and Algorithms<br>
+🌱 I’m currently learning <strong>MERN Stack</strong><br>
+🔭 I’m currently working on a full-fledged Instagram website clone <br>
 👯 I’m looking to collaborate on anything innovative<br>
 🤔 I’m looking for help with Exploring New Technologies.<br>
 💬 Ask me about any tech-related stuff.<br>
