@@ -33,7 +33,7 @@
  * <img src = "https://img.atcoder.jp/assets/atcoder.png" title = "AtCoder" align = "center" width = 25 height = 25/>  <a href = "https://atcoder.jp/users/kingrishabdugar">AtCoder</a><br>
  
  [![](https://cp-logo.vercel.app/leetcode/kingrishabdugar)](https://leetcode.com/kingrishabdugar/)
- [![](https://cp-logo.vercel.app/codechef/kingrishab)](https://codechef.com/kingrishab/)
+ [![](https://cp-logo.vercel.app/codechef/kingrishab)](https://codechef.com/users/kingrishab/)
 
 # 📊 GitHub Stats:
 <a href=""><img src="https://github.com/iAbhishekBasu/iAbhishekBasu/blob/main/Pics/gif.gif" align="right" width="275" height="250" /></a>
