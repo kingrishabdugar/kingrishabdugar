@@ -31,6 +31,9 @@
  * <img src = "https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" title = "Codechef" align = "center" width = 25 height = 25/>  <a href = "https://www.codechef.com/users/kingrishab">Codechef</a><br>
  * <img src = "https://web.archive.org/web/20220419201035/https://img.icons8.com/color/452/GeeksforGeeks.png" title = "GeeksForGeeks" align = "center" width = 25 height = 25/>  <a href = "https://auth.geeksforgeeks.org/user/kingrishabdugar/">GeeksForGeeks</a><br>
  * <img src = "https://img.atcoder.jp/assets/atcoder.png" title = "AtCoder" align = "center" width = 25 height = 25/>  <a href = "https://atcoder.jp/users/kingrishabdugar">AtCoder</a><br>
+ 
+ [![](https://cp-logo.vercel.app/leetcode/kingrishabdugar)](https://leetcode.com/kingrishabdugar/)
+ [![](https://cp-logo.vercel.app/codechef/kingrishab)](https://codechef.com/kingrishab/)
 
 # 📊 GitHub Stats:
 <a href=""><img src="https://github.com/iAbhishekBasu/iAbhishekBasu/blob/main/Pics/gif.gif" align="right" width="275" height="250" /></a>
