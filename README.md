@@ -41,7 +41,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kingrishabdugar&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kingrishabdugar&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!--- [![Rishab's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=kingrishabdugar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) ---> 
+[![Rishab's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=kingrishabdugar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
 
