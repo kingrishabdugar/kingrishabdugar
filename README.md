@@ -9,9 +9,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=rishabdugar)
 [![Facebook](https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/kingrishabdugar)
-[![Instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kingrishabdugar)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kingrishabdugar)
 
-[![GitHub kingrishabdugar](https://img.shields.io/github/followers/kingrishabdugar?label=follow&style=social)](https://github.com/kingrishabdugar)
+[![GitHub kingrishabdugar](https://img.shields.io/github/followers/kingrishabdugar?label=follow&style=?style=for-the-badge&logo=github)](https://github.com/kingrishabdugar)
 
 </div>
 
