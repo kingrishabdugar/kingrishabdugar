@@ -11,6 +11,8 @@
 [![Facebook](https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/kingrishabdugar)
 [![Instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kingrishabdugar)
 
+[![GitHub kingrishabdugar](https://img.shields.io/github/followers/kingrishabdugar?label=follow&style=social)](https://github.com/kingrishabdugar)
+
 </div>
 
 # 💫 About Me:
