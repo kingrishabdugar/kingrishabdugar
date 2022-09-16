@@ -1,7 +1,6 @@
 <h1 align="center"> < Hello World > 👋, I'm Rishab Dugar </h1>
 <h3 align="center">A young passionate developer 🧑🏻‍💻 from India 🇮🇳</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kingrishabdugar&label=Profile%20views&color=0e75b6&style=flat" alt="kingrishabdugar" /> </p>
-<div align="center">
 <h1 align="center">
   Let's Connect and have a Chat!💬
 </h1>
