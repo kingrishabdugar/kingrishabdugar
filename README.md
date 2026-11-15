@@ -1,96 +1,134 @@
-<h1 align="center"><a href="https://linktr.ee/rishabdugar"><img src="https://readme-typing-svg.demolab.com?font=Futura&weight=550&size=30&duration=2500&pause=100&color=1582FF&center=true&vCenter=true&multiline=true&repeat=false&width=450&height=150&lines=%3CHello+World%3E+%E2%9A%99%EF%B8%8F;++++++++++++++++++++++++++++++;I'm+Rishab+Dugar+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" /></a></h1>
+<h1 align="center">Hi, I'm Rishab Dugar 👋</h1>
 
-<h2 align="center"><a href="https://www.linkedin.com/in/rishabdugar"><img src="https://readme-typing-svg.demolab.com/?font=Futura&weight=500&size=27&duration=3000&pause=250&color=FF3111&center=true&vCenter=true&random=true&width=450&height=100&lines=Full+Stack+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Engineer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%94%AC;Technical+Content+Writer+%E2%9C%8D%F0%9F%8F%BB;Competitive+Programmer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%F0%9F%A7%A0;Data+Analyst+%F0%9F%93%88;Open+Source+Enthusiast+%F0%9F%90%A7;+Generative+AI+Practitioner+%F0%9F%A4%96" alt="Typing SVG" /></a></h2>
+<h3 align="center">Senior Data Scientist · AI Engineer · Builder of things that run in production, not just in demos</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kingrishabdugar&label=Profile%20views&color=0e75b6&style=flat" alt="kingrishabdugar" /> </p>
-<h1 align="center">
-  Let's Connect and have a Chat!💬
-</h1>
+<p align="center">
+  <a href="https://rishabdugarjain.in"><img src="https://img.shields.io/badge/Portfolio-rishabdugarjain.in-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/rishabdugar"><img src="https://img.shields.io/badge/LinkedIn-13.6K%20followers-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://rishabdugarjain.hashnode.dev"><img src="https://img.shields.io/badge/Blog-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/></a>
+  <a href="https://fizzdoc.com"><img src="https://img.shields.io/badge/Fizzdoc-fizzdoc.com-F97316?style=for-the-badge&logo=webassembly&logoColor=white" alt="Fizzdoc"/></a>
+</p>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=rishabdugar)
-[![Facebook](https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/kingrishabdugar)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kingrishabdugar)
-
-[![GitHub kingrishabdugar](https://img.shields.io/github/followers/kingrishabdugar?label=follow&style=?style=for-the-badge&logo=github)](https://github.com/kingrishabdugar)
-
-</div>
-
-# 💫 About Me:
-🌱 I’m currently learning <strong>MERN Stack</strong><br>
-🔭 I’m currently working on a full-fledged Instagram website clone <br>
-👯 I’m looking to collaborate on anything innovative<br>
-🤔 I’m looking for help with Exploring New Technologies.<br>
-💬 Ask me about any tech-related stuff.<br>
-😄 Pronouns: He/His<br>
-📫 How to reach me: **✉️ rishabdugar.jain@gmail.com**         
-⚡ Random fact: Being a good programmer is 3% talent & 97% not being distracted by the internet.
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-
-# 🧑🏻‍💻 My Programming Profiles:
- * <img src = "https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" title = "Leetcode" align = "center" width = 25 height = 25/>  <a href = "https://leetcode.com/kingrishabdugar/">LeetCode</a><br>
- * <img src = "https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" title = "Codechef" align = "center" width = 25 height = 25/>  <a href = "https://www.codechef.com/users/kingrishab">Codechef</a><br>
- * <img src = "https://web.archive.org/web/20220419201035/https://img.icons8.com/color/452/GeeksforGeeks.png" title = "GeeksForGeeks" align = "center" width = 25 height = 25/>  <a href = "https://auth.geeksforgeeks.org/user/kingrishabdugar/">GeeksForGeeks</a><br>
- * <img src = "https://img.atcoder.jp/assets/atcoder.png" title = "AtCoder" align = "center" width = 25 height = 25/>  <a href = "https://atcoder.jp/users/kingrishabdugar">AtCoder</a><br>
- 
- [![](https://cp-logo.vercel.app/leetcode/kingrishabdugar)](https://leetcode.com/kingrishabdugar/)
- [![](https://cp-logo.vercel.app/codechef/kingrishab)](https://codechef.com/users/kingrishab/)
-
-# 📊 GitHub Stats:
-<a href=""><img src="https://github.com/iAbhishekBasu/iAbhishekBasu/blob/main/Pics/gif.gif" align="right" width="275" height="250" /></a>
-![](https://github-readme-stats.vercel.app/api?username=kingrishabdugar&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kingrishabdugar&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kingrishabdugar&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-[![Rishab's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=kingrishabdugar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center">
-
-![snake gif](https://github.com/kingrishabdugar/kingrishabdugar/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
-### ✍️ Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-
-</div>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kingrishabdugar&label=Profile%20views&color=0e75b6&style=flat" alt="kingrishabdugar" /> </p>
-<div align="center">
-
-[![Gmail Badge](https://img.shields.io/badge/-rishabdugar.jain@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rishabdugar.jain@gmail.com)](mailto:rishabdugar.jain@gmail.com)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/kingishabdugar)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/kingrishabdugar)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=640&lines=Agentic+AI+%C2%B7+RAG+%C2%B7+Multi-agent+systems;Causal+ML+%C2%B7+Uplift+modelling+%C2%B7+Databricks;Voice+%2B+chat+AI+at+~150K+calls%2Fmonth;Privacy-first+tools+that+never+upload+your+files" alt="Typing SVG" />
+</p>
 
 ---
 
-</div>
+## 🧭 About me
 
-<div align="center">
+I make language models behave like dependable software: retrieval that actually retrieves, agents that know when to stop, and pipelines that survive the night without paging anyone.
 
+- 🧪 **Senior Data Scientist at V4C**: applied ML, causal ML and uplift modelling on Databricks, plus GenAI and agentic workflows
+- 🏗️ **Before that, 3 years at Accenture**: owned backend and GenAI delivery for production conversational AI (chat + voice), and designed a reusable multi-agent platform
+- ☁️ **Triple cloud certified** (AWS, Google Cloud, Azure) and **Claude Certified Architect – Professional**
+- ✍️ **Writer**: technical articles on GeeksforGeeks, Medium, dev.to and Hashnode; LinkedIn Top Programming Voice
+- 🧠 **LeetCode Knight** (top 2.8%) · B.Tech, NIT Durgapur
+- 🌌 Off the keyboard: cosmology, history, badminton, sketching and micro-poetry
 
-### A Random Meme for you, to make your day better 😌
+## 📈 What the work moved
 
+| Impact | Where |
+|---|---|
+| **~150K calls/month** served by a bilingual chat + voice AI assistant | Public-sector contact center |
+| **20+ agents, 40+ tools, ~1,000 concurrent users** on one agentic platform (MCP, LangGraph) | Internal AI platform |
+| **Sub-2s p95** voice authentication, unifying IVR, WebRTC and chat | Omnichannel voice AI |
+| **~200x cheaper** analytics queries and **~90% lower** AI cost per interaction | Serverless GenAI analytics |
+| **~89% better** answer accuracy with hybrid-search RAG and guardrails | Self-service FAQ bot |
 
-(*P.S. : Refresh the page to see a new one* 😉 )
+## 🚀 Featured projects
 
-<a href="https://github.com/kingrishabdugar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
+### [Fizzdoc](https://github.com/kingrishabdugar/fizzdoc) · [fizzdoc.com](https://fizzdoc.com) [![Stars](https://img.shields.io/github/stars/kingrishabdugar/fizzdoc?style=social)](https://github.com/kingrishabdugar/fizzdoc)
+74 free tools for PDFs, images, audio and Office files, including an AI background remover, that run **100% in your browser**. No uploads, no sign-up, no watermark, 16 languages.
+Core PDF jobs run qpdf compiled to **WebAssembly** in a throwaway worker. A strict CSP blocks every other origin, and CI fails the build if a single request leaves the tab. Open source, Apache-2.0.
+`TypeScript` `WebAssembly` `Web Workers` `pdf.js` `Open-weight AI` `Cloudflare Pages`
 
+### Gyanshala: learning as a game
+Free, ad-free bilingual (Hindi/English) learning apps for children aged 4–13, shared over WhatsApp. Each app is a single dependency-free HTML file: no backend, zero per-user cost.
 
+### More from the lab
+| Project | What it does |
+|---|---|
+| [Voice-to-Voice-Assistant](https://github.com/kingrishabdugar/Voice-to-Voice-Assistant) | Speech-in, speech-out assistant |
+| [AI-Powered-Proof-Reader](https://github.com/kingrishabdugar/AI-Powered-Proof-Reader) | Finds and corrects word errors in documents |
+| [udacity-recommendation-system](https://github.com/kingrishabdugar/udacity-recommendation-system) | Recommendation engine (Udacity Data Scientist Nanodegree) |
+| [data-scientist-nanodegree](https://github.com/kingrishabdugar/data-scientist-nanodegree) | ML pipelines, dashboards and recommenders |
+| [llama-replicate-chatbot](https://github.com/kingrishabdugar/llama-replicate-chatbot) | Llama 2 chatbot on Streamlit |
 
-### Random Dev Joke 🤡 for you! 
+## ✍️ Latest writing
 
-<!-- Markdown -->
+- [Someone asked if my 75 tools were accessible. I didn't know, so I tested every page.](https://rishabdugarjain.hashnode.dev/someone-asked-if-my-75-tools-were-accessible-i-didn-t-know-so-i-tested-every-page)
+- [I don't run analytics on my site. Here's what 273,000 requests told me anyway.](https://rishabdugarjain.hashnode.dev/i-don-t-run-analytics-on-my-site-here-s-what-273-000-requests-told-me-anyway)
+- [The architecture of a website that can't see your files (74 tools, no backend)](https://rishabdugarjain.hashnode.dev/the-architecture-of-a-website-that-can-t-see-your-files-74-tools-no-backend)
+- [I built a background remover that never sees your photo (and it does GIFs and videos too)](https://rishabdugarjain.hashnode.dev/i-built-a-background-remover-that-never-sees-your-photo-and-it-does-gifs-and-videos-too)
+- [I put 64 file tools and an open-weight AI model in a browser tab. Nothing gets uploaded.](https://rishabdugarjain.hashnode.dev/i-put-64-file-tools-and-an-open-weight-ai-model-in-a-browser-tab-nothing-gets-uploaded)
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+➡️ [All posts on Hashnode](https://rishabdugarjain.hashnode.dev)
 
-</div>
+## 🛠️ Toolbox
 
----
+**AI / ML**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+
+**GenAI / Agents**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-01A88D?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square)
+
+**Cloud / Backend**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
+
+## 🏅 Certifications
+
+- **Claude Certified Architect – Professional** · Anthropic
+- **Google Cloud Professional Machine Learning Engineer**
+- **AWS Certified Developer – Associate**
+- **Microsoft Certified: Azure AI Engineer Associate**
+- **Udacity Nanodegrees**: Data Scientist · Artificial Intelligence
+
+<sub>All verifiable on <a href="https://www.credly.com/users/rishabdugar">Credly</a> and <a href="https://www.linkedin.com/in/rishabdugar/details/certifications/">LinkedIn</a>.</sub>
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kingrishabdugar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=kingrishabdugar&hide_border=true&theme=transparent" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/kingrishabdugar/kingrishabdugar/blob/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
+</p>
+
+## 🤝 Let's talk
+
+Open to conversations on **AI Architect, Lead Data Scientist and Senior ML / GenAI Engineer** roles, and to collaborating on open-source, privacy-first tools.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rishabdugar"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:rishabdugar.jain@gmail.com"><img src="https://img.shields.io/badge/Email-rishabdugar.jain%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://leetcode.com/kingrishabdugar/"><img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+</p>
+
+<p align="center"><sub>⭐ If Fizzdoc saves you a trip to an upload-your-file website, a star on the repo helps more people find it.</sub></p>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=kingrishabdugar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/></p>
