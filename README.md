@@ -5,11 +5,16 @@
 </p>
 
 <p align="center">
-  <a href="https://rishabdugarjain.in"><img src="https://img.shields.io/badge/Website-rishabdugarjain.in-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
-  <a href="https://www.linkedin.com/in/rishabdugar"><img src="https://img.shields.io/badge/LinkedIn-rishabdugar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://rishabdugarjain.hashnode.dev"><img src="https://img.shields.io/badge/Blog-Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white" alt="Blog"/></a>
-  <a href="https://linktr.ee/rishabdugar"><img src="https://img.shields.io/badge/Linktree-everything_else-43E55E?style=flat-square&logo=linktree&logoColor=white" alt="Linktree"/></a>
-  <a href="mailto:rishabdugar.jain@gmail.com"><img src="https://img.shields.io/badge/Email-say%20hi-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://rishabdugarjain.in"><img src="assets/website-button.svg" width="520" alt="Step into the lab: rishabdugarjain.in"/></a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rishabdugar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://rishabdugarjain.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white" alt="Hashnode"/></a>
+  <a href="https://leetcode.com/u/rishabdugar/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://codolio.com/profile/rishabdugar"><img src="https://img.shields.io/badge/Codolio-FF6B00?style=flat-square" alt="Codolio"/></a>
+  <a href="https://linktr.ee/rishabdugar"><img src="https://img.shields.io/badge/Linktree-43E55E?style=flat-square&logo=linktree&logoColor=white" alt="Linktree"/></a>
+  <a href="mailto:rishabdugar.tech@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=kingrishabdugar&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
 </p>
 
@@ -23,7 +28,7 @@ rishab = {
     "currently_into": ["causal ML", "uplift models", "agents that know when to stop"],
     "previously": "Accenture: conversational AI, RAG, multi-agent platforms",
     "certified_in": ["AWS", "GCP", "Azure", "Claude Architect (Foundations + Professional)"],  # collecting them like Infinity Stones
-    "competitive_programming": {"LeetCode": "Knight", "CodeChef": "4★"},
+    "competitive_programming": {"LeetCode": "Knight", "CodeChef": "4★ (peak)"},
     "side_quest": "fizzdoc.com",
     "off_duty": ["cosmology", "badminton", "sketching", "shayari"],
 }
@@ -57,7 +62,7 @@ Same posts, your favourite platform:
 
 <p>
   <a href="https://rishabdugarjain.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/></a>
-  <a href="https://rishabdugarjain.medium.com/"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://medium.com/@rishabdugarjain"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://dev.to/rishabdugar"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"/></a>
   <a href="https://www.geeksforgeeks.org/user/kingrishabdugar/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
 </p>
@@ -137,12 +142,13 @@ Same posts, your favourite platform:
 ### 🏆 Competitive programming
 
 <p align="center">
-  <a href="https://leetcode.com/kingrishabdugar/"><img src="https://leetcard.jacoblin.cool/kingrishabdugar?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode stats"/></a>
+  <a href="https://leetcode.com/u/rishabdugar/"><img src="https://leetcard.jacoblin.cool/rishabdugar?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode stats"/></a>
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/kingrishabdugar/"><img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode Knight"/></a>
-  <a href="https://www.codechef.com/users/kingrishab"><img src="https://img.shields.io/badge/CodeChef-4%E2%98%85-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef 4 star"/></a>
+  <a href="https://leetcode.com/u/rishabdugar/"><img src="https://img.shields.io/badge/LeetCode-Knight%20%C2%B7%201983-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode Knight"/></a>
+  <a href="https://www.codechef.com/users/kingrishab"><img src="https://img.shields.io/badge/CodeChef-4%E2%98%85%20peak%20%C2%B7%201892-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef 4 star peak"/></a>
+  <a href="https://codolio.com/profile/rishabdugar"><img src="https://img.shields.io/badge/Codolio-all%20platforms-FF6B00?style=flat-square" alt="Codolio"/></a>
 </p>
 
 ### 😄 Break time
