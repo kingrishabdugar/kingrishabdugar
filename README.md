@@ -9,7 +9,7 @@ rishab = {
     "day_job": "Senior Data Scientist @ V4C",
     "currently_into": ["causal ML", "uplift models", "agents that know when to stop"],
     "previously": "Accenture: conversational AI, RAG, multi-agent platforms",
-    "clouds_certified_on": ["AWS", "GCP", "Azure"],   # collecting them like Infinity Stones
+    "certified_in": ["AWS", "GCP", "Azure", "Claude Architect (Foundations + Professional)"],  # collecting them like Infinity Stones
     "competitive_programming": {"LeetCode": "Knight", "CodeChef": "4★"},
     "side_quest": "fizzdoc.com",
     "off_duty": ["cosmology", "badminton", "sketching", "shayari"],
