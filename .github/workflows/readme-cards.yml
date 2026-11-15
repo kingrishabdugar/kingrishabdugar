@@ -1,0 +1,53 @@
+name: Update README cards
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        continue-on-error: true
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        continue-on-error: true
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true&theme=transparent
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Fizzdoc pin card
+        uses: stats-organization/github-readme-stats-action@v2
+        continue-on-error: true
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=fizzdoc&hide_border=true&theme=transparent
+          path: profile/pin-fizzdoc.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg || true
+          git commit -m "Update README cards" || exit 0
+          git push
