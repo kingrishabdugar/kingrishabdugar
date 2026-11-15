@@ -111,12 +111,11 @@ Free, ad-free bilingual (Hindi/English) learning apps for children aged 4–13, 
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kingrishabdugar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
   <img height="165" src="https://streak-stats.demolab.com?user=kingrishabdugar&hide_border=true&theme=transparent" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/kingrishabdugar/kingrishabdugar/blob/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
+  <img src="https://raw.githubusercontent.com/kingrishabdugar/kingrishabdugar/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
 </p>
 
 ## 🤝 Let's talk
