@@ -43,7 +43,7 @@ rishab = {
 - **Open source**: I also contribute to [Google's elephant-goldfish-model](https://github.com/google/elephant-goldfish-model/graphs/contributors), with merged fixes to its packaging and tooling.
 
 <p align="center">
-  <a href="https://github.com/kingrishabdugar/fizzdoc"><img src="https://github-readme-stats.hackclub.dev/api/pin/?username=kingrishabdugar&repo=fizzdoc&hide_border=true&theme=transparent" alt="Fizzdoc repo card"/></a>
+  <a href="https://github.com/kingrishabdugar/fizzdoc"><img src="https://github-stats-extended.vercel.app/api/pin/?username=kingrishabdugar&repo=fizzdoc&hide_border=true&theme=transparent" alt="Fizzdoc repo card"/></a>
 </p>
 
 ### 🧠 Things I've learned the hard way
@@ -123,8 +123,8 @@ Same posts, your favourite platform:
 ### 📊 GitHub, by the numbers
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.hackclub.dev/api?username=kingrishabdugar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=kingrishabdugar&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=kingrishabdugar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kingrishabdugar&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
 </p>
 
 <p align="center">
