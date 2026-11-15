@@ -1,5 +1,7 @@
 ## Hi, I'm Rishab 👋
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=2F81F7&vCenter=true&width=520&lines=Senior+Data+Scientist+%40+V4C;Teaching+LLMs+to+behave+like+software;Causal+ML+%C2%B7+RAG+%C2%B7+Agents;LeetCode+Knight+%C2%B7+CodeChef+4%E2%98%85" alt="Senior Data Scientist, causal ML, RAG and agents" />
+
 I teach language models to behave like dependable software. Most days, they listen.
 
 Senior Data Scientist at **V4C**. Before that, three years at **Accenture** shipping chat and voice AI that people called ~150K times a month, and mostly didn't hang up on.
@@ -22,7 +24,7 @@ rishab = {
 - **A multi-agent platform**: 20+ agents, 40+ tools, ~1,000 concurrent users, and one very patient orchestrator.
 - **A voice + chat assistant** with sub-2s voice authentication, because nobody enjoys saying their date of birth twice.
 - **Gyanshala**: learning games for kids, each one a single HTML file. No backend, no ads, no server bill.
-- **Open source**: contributor to [Google's elephant-goldfish-model](https://github.com/google/elephant-goldfish-model/graphs/contributors), with merged fixes to its packaging and tooling.
+- **Open source**: I also contribute to [Google's elephant-goldfish-model](https://github.com/google/elephant-goldfish-model/graphs/contributors), with merged fixes to its packaging and tooling.
 
 ### Things I've learned the hard way
 
