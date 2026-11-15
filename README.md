@@ -22,7 +22,7 @@ rishab = {
 - **A multi-agent platform**: 20+ agents, 40+ tools, ~1,000 concurrent users, and one very patient orchestrator.
 - **A voice + chat assistant** with sub-2s voice authentication, because nobody enjoys saying their date of birth twice.
 - **Gyanshala**: learning games for kids, each one a single HTML file. No backend, no ads, no server bill.
-- **Open source**: a few [merged fixes in Google's elephant-goldfish-model](https://github.com/google/elephant-goldfish-model/pulls?q=is%3Apr+author%3Akingrishabdugar+is%3Amerged). The unglamorous kind (UTF-8 manifests, missed file extensions) that stops a tool from breaking on someone else's laptop.
+- **Open source**: you'll find me in the [contributors list of Google's elephant-goldfish-model](https://github.com/google/elephant-goldfish-model/graphs/contributors), for the unglamorous fixes (UTF-8 manifests, missed file extensions) that stop a tool from breaking on someone else's laptop.
 
 ### Things I've learned the hard way
 
