@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Rishab 👋</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=560&lines=Senior+Data+Scientist;Teaching+LLMs+to+behave+like+software;Agent+architecture+%C2%B7+Context+engineering+%C2%B7+MCP;AWS+%C2%B7+Azure+%C2%B7+GCP+%C2%B7+Databricks+%C2%B7+Claude;LeetCode+Knight+%C2%B7+CodeChef+4%E2%98%85" alt="Senior Data Scientist: agent architecture, context engineering, MCP; AWS, Azure, GCP, Databricks, Claude" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=560&lines=Senior+Data+Scientist;Teaching+LLMs+to+behave+like+software;Agent+architecture+%C2%B7+Context+engineering+%C2%B7+MCP;AWS+%C2%B7+Azure+%C2%B7+GCP+%C2%B7+Databricks;Claude+Certified+Architect+(Professional);LeetCode+Knight+%C2%B7+CodeChef+4%E2%98%85" alt="Senior Data Scientist: agent architecture, context engineering, MCP; AWS, Azure, GCP, Databricks; Claude Certified Architect (Professional)" />
 </p>
 
 <p align="center">
