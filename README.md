@@ -10,6 +10,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rishabdugar/"><img src="https://img.shields.io/badge/LinkedIn-13.6K%20followers-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn, 13.6K followers"/></a>
+  <!-- DEVTO-FOLLOWERS:START --><a href="https://dev.to/rishabdugar"><img src="https://img.shields.io/badge/dev.to-rishabdugar-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="dev.to"/></a><!-- DEVTO-FOLLOWERS:END -->
   <a href="https://rishabdugarjain.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white" alt="Hashnode"/></a>
   <a href="https://leetcode.com/u/rishabdugar/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
   <a href="https://codolio.com/profile/rishabdugar"><img src="https://img.shields.io/badge/Codolio-FF6B00?style=flat-square" alt="Codolio"/></a>
@@ -43,7 +44,7 @@ rishab = {
 - **Open source**: I also contribute to [Google's elephant-goldfish-model](https://github.com/google/elephant-goldfish-model/graphs/contributors), with merged fixes to its packaging and tooling.
 
 <p align="center">
-  <a href="https://github.com/kingrishabdugar/fizzdoc"><img src="https://github-stats-extended.vercel.app/api/pin/?username=kingrishabdugar&repo=fizzdoc&hide_border=true&theme=transparent" alt="Fizzdoc repo card"/></a>
+  <a href="https://github.com/kingrishabdugar/fizzdoc"><img src="profile/pin-fizzdoc.svg" alt="Fizzdoc repo card"/></a>
 </p>
 
 ### 🧠 Things I've learned the hard way
@@ -123,8 +124,8 @@ Same posts, your favourite platform:
 ### 📊 GitHub, by the numbers
 
 <p align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=kingrishabdugar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kingrishabdugar&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
+  <img height="170" src="profile/stats.svg" alt="GitHub stats"/>
+  <img height="170" src="profile/top-langs.svg" alt="Top languages"/>
 </p>
 
 <p align="center">
