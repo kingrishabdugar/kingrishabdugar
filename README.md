@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Rishab 👋</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=560&lines=Senior+Data+Scientist+%40+V4C;Teaching+LLMs+to+behave+like+software;Causal+ML+%C2%B7+RAG+%C2%B7+Agents;LeetCode+Knight+%C2%B7+CodeChef+4%E2%98%85" alt="Senior Data Scientist, causal ML, RAG and agents" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=560&lines=Senior+Data+Scientist;Teaching+LLMs+to+behave+like+software;Causal+ML+%C2%B7+RAG+%C2%B7+Agents;LeetCode+Knight+%C2%B7+CodeChef+4%E2%98%85" alt="Senior Data Scientist, causal ML, RAG and agents" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rishabdugar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/rishabdugar/"><img src="https://img.shields.io/badge/LinkedIn-13.6K%20followers-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn, 13.6K followers"/></a>
   <a href="https://rishabdugarjain.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white" alt="Hashnode"/></a>
   <a href="https://leetcode.com/u/rishabdugar/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
   <a href="https://codolio.com/profile/rishabdugar"><img src="https://img.shields.io/badge/Codolio-FF6B00?style=flat-square" alt="Codolio"/></a>
@@ -20,13 +20,13 @@
 
 I teach language models to behave like dependable software. Most days, they listen.
 
-Senior Data Scientist at **V4C**. Before that, three years at **Accenture** shipping chat and voice AI that people called ~150K times a month, and mostly didn't hang up on.
+Senior Data Scientist. Before that, three years shipping chat and voice AI that people called ~150K times a month, and mostly didn't hang up on.
 
 ```python
 rishab = {
-    "day_job": "Senior Data Scientist @ V4C",
+    "day_job": "Senior Data Scientist",
     "currently_into": ["causal ML", "uplift models", "agents that know when to stop"],
-    "previously": "Accenture: conversational AI, RAG, multi-agent platforms",
+    "previously": "conversational AI, RAG, multi-agent platforms",
     "certified_in": ["AWS", "GCP", "Azure", "Claude Architect (Foundations + Professional)"],  # collecting them like Infinity Stones
     "competitive_programming": {"LeetCode": "Knight", "CodeChef": "4★ (peak)"},
     "side_quest": "fizzdoc.com",
