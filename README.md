@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Rishab 👋</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=560&lines=Senior+Data+Scientist;Teaching+LLMs+to+behave+like+software;Causal+ML+%C2%B7+RAG+%C2%B7+Agents;LeetCode+Knight+%C2%B7+CodeChef+4%E2%98%85" alt="Senior Data Scientist, causal ML, RAG and agents" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=560&lines=Senior+Data+Scientist;Teaching+LLMs+to+behave+like+software;Agent+architecture+%C2%B7+MCP+%C2%B7+Causal+ML;LeetCode+Knight+%C2%B7+CodeChef+4%E2%98%85" alt="Senior Data Scientist, agent architecture, MCP and causal ML" />
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ Senior Data Scientist. Before that, three years shipping chat and voice AI that 
 rishab = {
     "day_job": "Senior Data Scientist",
     "currently_into": ["causal ML", "uplift models", "agents that know when to stop"],
-    "previously": "conversational AI, RAG, multi-agent platforms",
+    "previously": "conversational AI, multi-agent platforms, MCP tooling",
     "certified_in": ["AWS", "GCP", "Azure", "Claude Architect (Foundations + Professional)"],  # collecting them like Infinity Stones
     "competitive_programming": {"LeetCode": "Knight", "CodeChef": "4★ (peak)"},
     "side_quest": "fizzdoc.com",
@@ -49,7 +49,7 @@ rishab = {
 
 ### 🧠 Things I've learned the hard way
 
-- When RAG hallucinates, blame the retrieval before you blame the model.
+- When an agent goes off the rails, check its tools and context before you blame the model.
 - An agent without a stopping condition is just an expensive `while True`.
 - Most problems turn out to be O(n log n) once you stop panicking. Competitive programming taught me that; production reminded me.
 
