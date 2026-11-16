@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rishabdugar/"><img src="https://img.shields.io/badge/LinkedIn-13.6K%20followers-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn, 13.6K followers"/></a>
-  <!-- DEVTO-FOLLOWERS:START --><a href="https://dev.to/rishabdugar"><img src="https://img.shields.io/badge/dev.to-rishabdugar-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="dev.to"/></a><!-- DEVTO-FOLLOWERS:END -->
+  <!-- DEVTO-FOLLOWERS:START --><a href="https://dev.to/rishabdugar"><img src="https://img.shields.io/badge/dev.to-1.1K%20followers-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="dev.to, 1111 followers"/></a><!-- DEVTO-FOLLOWERS:END -->
   <a href="https://rishabdugarjain.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white" alt="Hashnode"/></a>
   <a href="https://leetcode.com/u/rishabdugar/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
   <a href="https://codolio.com/profile/rishabdugar"><img src="https://img.shields.io/badge/Codolio-FF6B00?style=flat-square" alt="Codolio"/></a>
