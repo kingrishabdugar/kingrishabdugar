@@ -122,7 +122,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">81 free tools that run 100% in your browser: QR code</tspan><tspan dy="1.2em" x="25">generator &#38; scanner, photo editor, AI background remover</tspan><tspan dy="1.2em" x="25">(photo, GIF, video), speech to text, PDF...</tspan>
+      <tspan dy="1.2em" x="25">82 free tools that run 100% in your browser: QR code</tspan><tspan dy="1.2em" x="25">generator &#38; scanner, photo editor, AI background remover</tspan><tspan dy="1.2em" x="25">(photo, GIF, video), speech to text, PDF...</tspan>
     </text>
 
     <g transform="translate(30, 75)">
